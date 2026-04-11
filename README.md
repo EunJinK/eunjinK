@@ -4,7 +4,9 @@
   <samp>
     Welcome to EunJinK<br>
     :smile:my major is embedded system<br>
-    ✉️kej7377@daum.net<br>
-    :fire:It's not good enough skills, but have fun looking around.
+    ✉️kej7377@daum.net/naver.com<br>
+    🔥 Experience in building and operating Docker and Kubernetes environment<br>
+    🔥 Programming experience with Script, C, PHP, and Python languages<br><br>
+    🖤Enjoy learning new technologies and programming languages, with a strong ability to quickly understand and adapt.
   </samp>
 </p>
